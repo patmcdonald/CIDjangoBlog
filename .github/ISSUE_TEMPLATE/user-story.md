@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a **_role_** I can view a **_capability_** so that **_received benefit_**
+As a **_role_** I can **_capability_** so that **_received benefit_**
